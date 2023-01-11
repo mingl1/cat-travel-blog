@@ -5,7 +5,8 @@
   /* align-items: center;
   justify-items: center; */
   justify-content: center;
-  min-width: 700px;
+  /* min-width: 720px; */
+  overflow-x: hidden;
  }
 
 /* .placeholder{

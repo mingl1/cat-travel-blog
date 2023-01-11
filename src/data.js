@@ -17,7 +17,7 @@ const data = [
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     date: "week 2",
     description:
-      "New York City, officially the City of New York, historically New Amsterdam, the Mayor, Alderman, and Commonality of the City of New York, and New Orange, byname the Big Apple, city and port located at the mouth of the Hudson River, southeastern New York state, northeastern U.S.",
+      "New York City, officially the City of New York, historically New Amsterdam, the Mayor, Alderman, and Commonality of the City of New York, and New Orange, byname the Big Apple, city and port located at the mouth of the Hudson River",
     imageUrl: { nyc },
   },
   {
