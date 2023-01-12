@@ -1,12 +1,9 @@
-.Card {
+/* .Card {
   flex: 1;
   display: flex;
-  /* min-height: 168px; */
   justify-items: center;
   align-items: center;
-  /* padding: 2%; */
   padding-bottom: calc(30px + 0.390625vw);;
-  /* min-width: 584px; */
   width: calc(300px + 50.390625vw);;
 }
 
@@ -14,15 +11,12 @@
   display: flex;
   flex: 1;
   justify-content: right;
-  /* background-color: #918E9B; */
   margin-right: 5px;
   
 }
 
 .Image img{
   aspect-ratio: 125/168;
-  /* min-height: 150px; */
-  /* min-width: 130px; */
   border-radius: 5px;
   width: 55%;
   max-width: 130px;
@@ -32,10 +26,7 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-  /* padding-top: 15px; */
-  /* margin-left: 30px; */
   height: 100%;
-  /* justify-content: center; */
 }
 .desc, .date{
   margin-left: 10px;
@@ -48,8 +39,6 @@
   justify-content: left;
   width: 100%;
   height: 10%;
-  /* padding: 10px; */
-  /* background-color: #918E9B; */
 
 }
 
@@ -60,7 +49,6 @@
   font-weight: 400;
   font-size: calc(10px + 0.390625vw);
   letter-spacing: 0.15rem;
-  /* max-width: 10px; */
 }
 .Heading img{
   max-width: 15px;
@@ -95,9 +83,4 @@ small{
   font-weight: 400;
   font-size: calc(7px + 0.190625vw);
 line-height: 150%;
-}
-/* 
-.Card:nth-child(3){
-
-  padding-bottom: 0;
 } */

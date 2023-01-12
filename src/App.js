@@ -6,9 +6,9 @@ function App() {
   const cards = Data.map((i) => <Card {...i} />);
 
   return (
-    <div className="App">
+    <div className="flex flex-col">
       <Nav />
-      <div className="container">{cards}</div>
+      <div className="flex flex-col w-full">{cards}</div>
     </div>
   );
 }

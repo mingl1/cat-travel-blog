@@ -1,13 +1,10 @@
-.App {
+/* .App {
   height: 100%;
   display: flex;
   flex-direction: column;
-  /* align-items: center;
-  justify-items: center; */
   justify-content: center;
-  /* min-width: 720px; */
   overflow-x: hidden;
- }
+ } */
 
 /* .placeholder{
   display: flex;
@@ -16,9 +13,9 @@
   background-color: #282c34;
 } */
 
-
+/* 
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
+} */
